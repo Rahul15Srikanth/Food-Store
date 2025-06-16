@@ -1,2 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+.header-bg{
+    background-image:url("https://ik.imagekit.io/Rahuli/Food%20Store/foodmunch-banner-bg.png?updatedAt=1750068529663");
+    background-size:cover ;
+}
